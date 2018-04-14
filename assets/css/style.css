@@ -10,7 +10,19 @@ header{
     clear: left;
     text-align: left;
 }
-
+.name {
+    background-color: cadetblue;
+    width: fit-content;
+    left: 20%;
+    height: 100%;
+    position: relative;
+    display: flex; // Used for vertical alignment
+    align-items: center; // Used for vertical alignment
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    text-align:center;
+}
 footer{
     padding: 1em;
     color: lightgrey;
@@ -20,11 +32,6 @@ footer{
 }
 * {
     box-sizing: border-box;
-  }
-.menu {
-    float:left;
-    width:20%;
-    text-align:center;
   }
 nav {
     float: left;
