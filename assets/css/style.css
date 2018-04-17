@@ -16,8 +16,8 @@ header{
     color: lightgrey;
     background-color: white;
     position: absolute;
-    top: 7%;
-    right: 5%;
+    top: 5%;
+    right: 3%;
     front size: 5px;
     float: right;
 }
@@ -69,6 +69,16 @@ h3 {
     position: relative;
     padding: 5px;
 }
+.textblock {
+    position: absolute;
+    bottom: 15px;
+    right: 20px;
+    width: 250px;
+    color: white;
+    background-color: #4aaaa5
+    text-align: center;
+    front-size: 12px;
+}
 footer{
     font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
     padding: 1em;
@@ -113,6 +123,7 @@ footer{
     background-image: url("../images/tic_tac_toe.png");
     background-color: "#4aaaa5";
     color: #777777;
+    margin: 0px;
 }
 #footerdiv {
     border: none;
