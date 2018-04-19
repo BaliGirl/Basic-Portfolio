@@ -77,8 +77,8 @@ h3 {
 }
 .textblock1 {
     position: absolute;
-    bottom: 325px;
-    left: 251px;
+    bottom: 420px;
+    left: 240.5px;
     width: 300px;
     color: white;
     background-color: #4aaaa5;
@@ -150,9 +150,6 @@ element.style {
     margin-left: 20px;
     line-height: 20px;
     border-top: 1px solid lightgrey;
-}
-.googlefont {
-    font-family: 'Handlee', cursive;
 }
 #profilePic {
     float: left;
