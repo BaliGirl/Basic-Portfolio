@@ -1,7 +1,7 @@
 #container {
     width: 100%;
-    border: 0px solid #cccccc;
-    margin-bottom: 10px;
+    border: 1px solid #cccccc;
+    margin-bottom: 0px;
 } 
 hr {
     margin-top: 0px; 
@@ -28,7 +28,7 @@ header{
 }
 #navigation ul
 {
-    margin-top: -10px;
+    margin-top: 5px;
     padding: 20px;
     float: right;
 }
@@ -72,58 +72,58 @@ h3 {
     color: #4aaaa5;
     background-color: #ffffff;
     position: relative;
-    padding: 15px;
+    padding: 30px;
     font-size: 25px;
 }
 .textblock1 {
     position: absolute;
-    bottom: 390px;
+    bottom: 400px;
     left: 276px;
     width: 300px;
     color: white;
     background-color: #4aaaa5;
     text-align: center;
-    front-size: 12px;
+    font-size: 15px;
 }
 .textblock2 {
     position: absolute;
-    bottom: 390px;
+    bottom: 400px;
     left: 616px;
     width: 300px;
     color: white;
     background-color: #4aaaa5;
     text-align: center;
-    front-size: 12px;
+    font-size: 15px;
 }
 .textblock3 {
     position: absolute;
-    bottom: 160px;
+    bottom: 155px;
     left: 276px;
     width: 300px;
     color: white;
     background-color: #4aaaa5;
     text-align: center;
-    front-size: 12px;
+    font-size: 15px;
 }
 .textblock4 {
     position: absolute;
-    bottom: 160px;
+    bottom: 155px;
     left: 616px;
     width: 300px;
     color: white;
     background-color: #4aaaa5;
     text-align: center;
-    front-size: 12px;
+    font-size: 15px;
 }
 .textblock5 {
     position: absolute;
-    bottom: -70px;
+    bottom: -90px;
     left: 276px;
     width: 300px;
     color: white;
     background-color: #4aaaa5;
     text-align: center;
-    front-size: 12px;
+    font-size: 15px;
 }
 #portfoliopic1 {
     margin-right: 10 px;
@@ -176,13 +176,14 @@ footer{
 }
 element.style {
    width: 920px;
-   height: 750px;
+   height: 769px;
    border-bottom: 1px solid lightgrey;
 }
 #middlecontent {
     margin-left: 20px;
     line-height: 20px;
     border-top: 1px solid lightgrey;
+    margin-bottom: 10px;
 }
 #profilePic {
     float: left;
